@@ -45,16 +45,18 @@ void raiz() {
     {
         val = pow(mid, i);
         if (val > raiz) {
-             
+            min = min;
+            max = mid;
         }
         if (val < raiz) {
-
+            min = mid;
+            max = mid;
         }
         if (val == raiz) {
             break;
         }
     }
-    cout << "Raiz  " << raiz << " de " << rad << " = ";
+    cout << "Raiz  " << raiz << " de " << rad << " = " <<val;
 
     //fin ejercicio 2
 }
