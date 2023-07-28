@@ -1,0 +1,4 @@
+﻿  Lab2P3_GerardoCano.cpp
+C:\Users\gcano\source\repos\Lab2P3_GerardoCano\Lab2P3_GerardoCano.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\gcano\source\repos\Lab2P3_GerardoCano\Lab2P3_GerardoCano.cpp(39,27): warning C4101: 'resultado': unreferenced local variable
+  Lab2P3_GerardoCano.vcxproj -> C:\Users\gcano\source\repos\Lab2P3_GerardoCano\x64\Debug\Lab2P3_GerardoCano.exe
