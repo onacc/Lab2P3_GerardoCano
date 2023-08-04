@@ -20,10 +20,13 @@ void tablero(int n) {
             else {
                 cout << "1";
             }
+
+
             
         }
         cout << "\n";
     }
+    
 }
 //fin ejercicio 1
 //inicio ejercicio 2
@@ -63,6 +66,7 @@ void raiz() {
 
 int main()
 {
+    //menu
     int opcion;
     do {
         
@@ -81,6 +85,7 @@ int main()
         default:
             cout << "Saliendo";
         }
+        //fin menu
     } while (opcion);
     }
 
